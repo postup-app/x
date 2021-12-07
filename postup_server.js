@@ -1,12 +1,12 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyCOio_dyW2z0LOQuWSkt-C82hMO3NJDx1M",
-    authDomain: "postup-official-database.firebaseapp.com",
-    databaseURL: "https://postup-official-database-default-rtdb.firebaseio.com",
-    projectId: "postup-official-database",
-    storageBucket: "postup-official-database.appspot.com",
-    messagingSenderId: "677473875882",
-    appId: "1:677473875882:web:72c8486b2fab45efb75dd3"
-  };
+  apiKey: "AIzaSyC-pXauzg6kdCsO6mYevr3yYb5QQMPm7Rw",
+  authDomain: "postup-2.firebaseapp.com",
+  projectId: "postup-2",
+  storageBucket: "postup-2.appspot.com",
+  messagingSenderId: "575196444955",
+  appId: "1:575196444955:web:379ffde5f91ce3bcd8fbbe",
+  measurementId: "G-2HZ9ZKW9TN"
+};
 
   firebase.initializeApp(firebaseConfig);
   user_name = localStorage.getItem("user_name");
