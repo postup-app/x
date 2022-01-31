@@ -1,11 +1,11 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyC-pXauzg6kdCsO6mYevr3yYb5QQMPm7Rw",
-  authDomain: "postup-2.firebaseapp.com",
-  projectId: "postup-2",
-  storageBucket: "postup-2.appspot.com",
-  messagingSenderId: "575196444955",
-  appId: "1:575196444955:web:379ffde5f91ce3bcd8fbbe",
-  measurementId: "G-2HZ9ZKW9TN"
+  apiKey: "AIzaSyCGfxAO3IwTcpn8TPZ5EiVfImERSbmfwrM",
+  authDomain: "postup-unlimeited-database.firebaseapp.com",
+  projectId: "postup-unlimeited-database",
+  storageBucket: "postup-unlimeited-database.appspot.com",
+  messagingSenderId: "339138547384",
+  appId: "1:339138547384:web:43f93b3b0841eacc256e4d",
+  measurementId: "G-BFMFGB1HFV"
 };
 
   firebase.initializeApp(firebaseConfig);
